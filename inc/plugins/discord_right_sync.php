@@ -45,7 +45,7 @@ function discord_right_sync_info()
         "website" => "",
         "author" => "kodi",
         "authorsite" => "",
-        "version" => "0.6.2",
+        "version" => "0.6.3",
         "guid" => "",
         "codename" => "",
         "compatibility" => "16*,18*"
